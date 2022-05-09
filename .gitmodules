@@ -1,3 +1,6 @@
 [submodule "Advanced-Machine-Learning-Group-Project/meta-learning"]
 	path = Advanced-Machine-Learning-Group-Project/meta-learning
 	url = https://github.com/nirmal-25/meta-learning
+[submodule "Advanced-Machine-Learning-Group-Project/FewRel-Adv-ML"]
+	path = Advanced-Machine-Learning-Group-Project/FewRel-Adv-ML
+	url = https://github.com/AkashPujari/FewRel-Adv-ML
