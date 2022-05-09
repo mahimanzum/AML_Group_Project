@@ -3,7 +3,7 @@
 
 ### Or you can also run the "NonEuclidean_Meta.py" file line by line on a colab notebook noneuclidean_meta.py
 ### All the experiments are run in colab notebook
-#### For experiments with other manifolds  change these in omniglot_non_euclidean.py
+#### For experiments with other manifolds  change these in Omniglot/omniglot_non_euclidean.py
 #### Replace all "mnn.Stiefel" with "mnn.Hyperbolic" For the corresponding training
 #### Replace all "moptim.rAdagrad" with "moptim.rSGD" For the corresponding training
 
